@@ -42,5 +42,6 @@ int main()
         }
         printf(" ");
     }
+    free(text);
     return 0;
 }
